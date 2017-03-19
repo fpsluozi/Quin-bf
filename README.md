@@ -4,7 +4,7 @@
 By @FPS罗兹 修改自 https://github.com/pocmo/Python-Brainfuck
 
 不知Brainfuck为何物的请参考：https://zh.wikipedia.org/wiki/Brainfuck
-不知Brainfuck为何物的请参考：https://zh.wikipedia.org/wiki/Brainfuck
+不知大秦话为何物的请参考：https://zh.moegirl.org/Mr.Quin
 
 ## 用法：
 ./quin-bf.py helloworld.quin
