@@ -8,6 +8,9 @@ By @FPS罗兹 修改自 https://github.com/pocmo/Python-Brainfuck
 用法：
 ./quin-bf.py helloworld.quin
 
+注意：
+文件名请使用UTF-8编码
+
 This programm is licensed under the terms of the
 DO WHAT THE FUCK YOU WANT TO PUBLIC LICENSE.
 
