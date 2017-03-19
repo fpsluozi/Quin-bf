@@ -7,9 +7,10 @@ By @FPS罗兹 修改自 https://github.com/pocmo/Python-Brainfuck
 
 不知大秦话为何物的请参考：https://zh.moegirl.org/Mr.Quin
 
-## 用法：
+## 用法
 ./quin-bf.py helloworld.quin
-#### 注意：
+
+#### 注意
 请使用UTF-8编码
 
 ## Hello world 实例
